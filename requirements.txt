@@ -1,3 +1,4 @@
-langgraph>=0.2.0
-langgraph-cli[inmem]>=0.1.0
+# App dependencies only.
+# LangGraph + the server come from the base image (langchain/langgraph-api)
+# for the Docker build, and from the venv (langgraph-cli[inmem]) for local `langgraph dev`.
 langchain-anthropic>=0.2.0
