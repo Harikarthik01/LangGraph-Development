@@ -30,9 +30,11 @@ pieces are Claude (the model) and LangSmith/Studio (free observability + UI).
 | [docs/1-architecture.md](docs/1-architecture.md) | What we use, how it works, the flow, data ownership |
 | [docs/2-building-agents.md](docs/2-building-agents.md) | Build agents, test in Studio, access them from code |
 | [docs/3-setup-and-deployment.md](docs/3-setup-and-deployment.md) | Local setup, workflow, full deployment, operations |
+| [docs/4-integrating-into-apps.md](docs/4-integrating-into-apps.md) | Consume the agents from mobile/web apps **securely** (backend proxy) |
 
 Polished PDF versions (same content) are in the repo root:
-`1-System-Architecture.pdf`, `2-Building-Agents-Guide.pdf`, `3-Developer-Setup-Deployment.pdf`.
+`1-System-Architecture.pdf`, `2-Building-Agents-Guide.pdf`,
+`3-Developer-Setup-Deployment.pdf`, `4-Integrating-Agents-into-Apps.pdf`.
 
 ---
 
